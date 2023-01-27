@@ -204,7 +204,7 @@ You should be able to ...
 
 1. Create a repository from scratch
   1. ✏️ In Github Desktop, create a new repository with the name: `my-awesome-project`
-  1. Make sure the repository is public *not private* 
+  1. Make sure the repository is public *not private*
   1. Local Path: Click "Choose" and create a new folder `my-awesome-project` inside the `<your-class-name-here>` folder you made above
   1. Click Create Repository
   1. This should now be your class folder's directory structure.
@@ -284,7 +284,7 @@ Item # | Description | Completed
 1b | Link to `commit #1 from Github.com` | <a href="https://github.com/omundy/learn-git-milestones/commit/abd2378816d4e8cf242e0f43c3ff9ba602339d86">link</a>
 1c | Link to markdown tables docs | <a href="https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables">link</a>
 1d | What does `log` do? | Show commit logs
-2a | 2nd Favorite emoji |
+2a | 2nd Favorite emoji | 🥳
 2b | Link to `commit #2 from Github Desktop` |
 2c | Full path to your working directory |
 2d | Link to `commit #3 from CLI` |

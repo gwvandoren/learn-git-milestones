@@ -287,9 +287,9 @@ Item # | Description | Completed
 2a | 2nd Favorite emoji | 🥳
 2b | Link to `commit #2 from Github Desktop` | N/A
 2c | Full path to your working directory | /Users/g17/Documents/GitHub/dig345/learn-git-milestones
-2d | Link to `commit #3 from CLI` | N/A
+2d | Link to `commit #3 from CLI` | <a href="https://github.com/omundy/learn-git-milestones/commit/bebeb8315d2a9f82cb3f8297a0632fd4ec3736d7">link</a>
 2e | 3rd Favorite emoji | 😹
-2f | Link to `commit #4 from VS Code` |
+2f | Link to `commit #4 from VS Code` | <a href="https://github.com/omundy/learn-git-milestones/commit/547282db44ab5ca95b13060caf835e84e7a977be">link</a>
 3a | Link to `my-awesome-project` github.com repo page |
 4a | Link to `my-awesome-project` github.io "project site" |
 

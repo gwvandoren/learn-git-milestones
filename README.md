@@ -281,16 +281,16 @@ That is all that is required for this milestone. See the `ADVANCED.md` file if y
 Item # | Description | Completed
 --- | --- | ---
 1a | 1st Favorite emoji |  🐿️
-1b | Link to `commit #1 from Github.com` | <a href="https://github.com/omundy/learn-git-milestones/commit/abd2378816d4e8cf242e0f43c3ff9ba602339d86">link</a>
+1b | Link to `commit #1 from Github.com` | <a href="https://github.com/gwvandoren/learn-git-milestones/commit/abd2378816d4e8cf242e0f43c3ff9ba602339d86">link</a>
 1c | Link to markdown tables docs | <a href="https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables">link</a>
 1d | What does `log` do? | Show commit logs
 2a | 2nd Favorite emoji | 🥳
 2b | Link to `commit #2 from Github Desktop` | N/A
 2c | Full path to your working directory | /Users/g17/Documents/GitHub/dig345/learn-git-milestones
-2d | Link to `commit #3 from CLI` | <a href="https://github.com/omundy/learn-git-milestones/commit/bebeb8315d2a9f82cb3f8297a0632fd4ec3736d7">link</a>
+2d | Link to `commit #3 from CLI` | <a href="https://github.com/gwvandoren/learn-git-milestones/commit/bebeb8315d2a9f82cb3f8297a0632fd4ec3736d7">link</a>
 2e | 3rd Favorite emoji | 😹
-2f | Link to `commit #4 from VS Code` | <a href="https://github.com/omundy/learn-git-milestones/commit/547282db44ab5ca95b13060caf835e84e7a977be">link</a>
-3a | Link to `my-awesome-project` github.com repo page |
+2f | Link to `commit #4 from VS Code` | <a href="https://github.com/gwvandoren/learn-git-milestones/commit/547282db44ab5ca95b13060caf835e84e7a977be">link</a>
+3a | Link to `my-awesome-project` github.com repo page | <a href="https://github.com/gwvandoren/my-awesome-project/commit/facfac5506e496a3ce4bef05ee7849850bfb9aec">link</a>
 4a | Link to `my-awesome-project` github.io "project site" |
 
 

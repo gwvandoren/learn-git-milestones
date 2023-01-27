@@ -36,7 +36,7 @@ Below is a list of tasks. By mid-semester, everyone should...
 
 - **RTM** - Sometimes I give the command you need and sometimes you have to read the documentation to find it.
 - **Details** - Follow the instructions.
-- **Classes** - This milestone is made to use with multiple classes; insert your own class name where you see `<your-class-name-here>` (e.g. `dig245-critical-web-design`)
+- **Classes** - This milestone is made to use with multiple classes; insert your own class name where you see `<dig345-radical-software>` (e.g. `dig245-critical-web-design`)
 
 
 
@@ -205,12 +205,12 @@ You should be able to ...
 1. Create a repository from scratch
   1. ✏️ In Github Desktop, create a new repository with the name: `my-awesome-project`
   1. Make sure the repository is public *not private*
-  1. Local Path: Click "Choose" and create a new folder `my-awesome-project` inside the `<your-class-name-here>` folder you made above
+  1. Local Path: Click "Choose" and create a new folder `my-awesome-project` inside the `<dig345-radical-software>` folder you made above
   1. Click Create Repository
   1. This should now be your class folder's directory structure.
 
   ```html
-  <your-class-name-here>
+  <dig345-radical-software>
     |-- my-awesome-project
     |-- learn-git-milestones
   ```
@@ -291,7 +291,7 @@ Item # | Description | Completed
 2e | 3rd Favorite emoji | 😹
 2f | Link to `commit #4 from VS Code` | <a href="https://github.com/gwvandoren/learn-git-milestones/commit/547282db44ab5ca95b13060caf835e84e7a977be">link</a>
 3a | Link to `my-awesome-project` github.com repo page | <a href="https://github.com/gwvandoren/my-awesome-project/commit/facfac5506e496a3ce4bef05ee7849850bfb9aec">link</a>
-4a | Link to `my-awesome-project` github.io "project site" |
+4a | Link to `my-awesome-project` github.io "project site" | <a href="https://gwvandoren.github.io/my-awesome-project/">link</a>
 
 
 
